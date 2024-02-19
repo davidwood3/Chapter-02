@@ -1,0 +1,8 @@
+CTRL + B                Open sidebar
+F1 - Toggle Bread crumbs
+CTRL + ,                Open settings
+CTRL + click            Go to Definition of function
+
+CTRL + F                Search
+<enter>                 After search finds the next match
+
